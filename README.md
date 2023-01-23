@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a final year Electronics and Telecommunication Engineering undergraduate enthusiastic about working in the domains of artificial intelligence, machine learning, deep learning and computer vision. An adaptive person with good academic performance, analytical thinking ability, good mathematical background, and statistical analysis skills.
+I am MugunthanShandirasegaran, a final year Electronics and Telecommunication Engineering undergraduate enthusiastic about working in the domains of artificial intelligence, machine learning, deep learning and computer vision. An adaptive person with good academic performance, analytical thinking ability, good mathematical background, and statistical analysis skills.
